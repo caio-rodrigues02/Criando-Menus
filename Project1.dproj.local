@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/05/02 21:23:17.000.740,=C:\Users\Caio-Carol\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/02 21:36:00.000.050,C:\Users\Caio-Carol\Desktop\Primeiro sistema\Unit1.dfm=C:\Users\Caio-Carol\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2023/05/02 21:36:00.000.050,C:\Users\Caio-Carol\Desktop\Primeiro sistema\Unit1.pas=C:\Users\Caio-Carol\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2023/05/02 21:36:09.000.122,C:\Users\Caio-Carol\Desktop\Primeiro sistema\Project1.dproj=C:\Users\Caio-Carol\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2023/05/02 21:40:05.278,C:\Users\Caio-Carol\Desktop\Criando menus\Unit1.pas=C:\Users\Caio-Carol\Desktop\Primeiro sistema\Unit1.pas</Transaction>
+    <Transaction>2023/05/02 21:40:05.278,C:\Users\Caio-Carol\Desktop\Criando menus\Unit1.dfm=C:\Users\Caio-Carol\Desktop\Primeiro sistema\Unit1.dfm</Transaction>
+    <Transaction>2023/05/02 21:41:44.556,C:\Users\Caio-Carol\Desktop\Criando menus\Project1.dproj=C:\Users\Caio-Carol\Desktop\Primeiro sistema\Project1.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
